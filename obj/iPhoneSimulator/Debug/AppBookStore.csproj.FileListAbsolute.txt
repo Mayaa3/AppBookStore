@@ -1,0 +1,9 @@
+/Users/mayaa3/Desktop/repos/AppBookStore/AppBookStore/bin/iPhoneSimulator/Debug/AppBookStore.exe
+/Users/mayaa3/Desktop/repos/AppBookStore/AppBookStore/bin/iPhoneSimulator/Debug/AppBookStore.pdb
+/Users/mayaa3/Desktop/repos/AppBookStore/AppBookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/mayaa3/Desktop/repos/AppBookStore/AppBookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/mayaa3/Desktop/repos/AppBookStore/AppBookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/mayaa3/Desktop/repos/AppBookStore/AppBookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/mayaa3/Desktop/repos/AppBookStore/AppBookStore/obj/iPhoneSimulator/Debug/AppBookStore.csproj.CoreCompileInputs.cache
+/Users/mayaa3/Desktop/repos/AppBookStore/AppBookStore/obj/iPhoneSimulator/Debug/AppBookStore.exe
+/Users/mayaa3/Desktop/repos/AppBookStore/AppBookStore/obj/iPhoneSimulator/Debug/AppBookStore.pdb

@@ -116,7 +116,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Images\movieposter.jpg" />
+    <BundleResource Include="Images\cos.jpg" />
+    <BundleResource Include="Images\ss.jpg" />
+    <BundleResource Include="Images\poa.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

@@ -17,10 +17,10 @@ namespace AppBookStore
 
             bookList.Add (new Book() {
                 Author = "J.K Rowling",
-                Name = " Harry Potter and the Chamber of Secrets",
+                Name = " Harry Potter and the  Sorcerer's Stone",
                 Publisher = "Bloomsbury",
-                Year = 1999,
-                    ImagePath = "Images/movieposter.jpg"
+                Year = 1997,
+                    ImagePath = "Images/ss.jpg"
             } );
 
 			bookList.Add(new Book()
@@ -28,17 +28,17 @@ namespace AppBookStore
 				Author = "J.K Rowling",
 				Name = " Harry Potter and the Chamber of Secrets",
 				Publisher = "Bloomsbury",
-				Year = 1999,
-                    ImagePath = "Images/movieposter.jpg"
+				Year = 1998,
+                    ImagePath = "Images/cos.jpg"
 			});
 
 			bookList.Add(new Book()
 			{
 				Author = "J.K Rowling",
-				Name = " Harry Potter and the Chamber of Secrets",
+				Name = " Harry Potter and the Prisoner of Azkaban",
 				Publisher = "Bloomsbury",
 				Year = 1999,
-			ImagePath = "Images/movieposter.jpg"
+			ImagePath = "Images/poa.jpg"
             
             });
         }
